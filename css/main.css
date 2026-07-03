@@ -607,7 +607,7 @@ section {
 .preloader_page::before {
   content: "";
   border-radius: 100%;
-  outline: 5000px solid #40708e;
+  outline: 5000px solid #744392;
   min-height: 0vh;
   min-width: 0vw;
   aspect-ratio: 1/1;
